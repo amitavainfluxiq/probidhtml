@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ken Graff</title>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/media.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+</head>
+<body class="creditcardwrapper">
+<div class="container-fluid creditcardblock">
+    <div class="row">
+        <div class="creditcardblockwrapper">
+            <div class="logocreditcardblock">
+                <img src="images/logo.png" alt="logo kengraff" class="img-responsive">
+            </div>
+            <div class="row">
+                <div class="col-sm-12 col-xs-12 creditcardcustomerleft">
+                    <div class="creditcardleftimgwrapper">
+                        <img src="images/img_creditcard.jpg" alt="creditcard" class="img-responsive">
+                    </div>
+                    <div class="creditcardleftcontentwrapper">
+                        <h2>Lifetime Membership To ProBid Auto</h2>
+                    </div>
+                    <div class="creditcardleftfooterwrapper">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 creditcardleftfooterwrapperinner">
+                                <h3>This is a onetime charge and you will get unlimited access to the <span>ProBid Auto.com</span> portal and access to thousands of autos through <strong>[name of auto dealer]</strong></h3>
+                                <div class="table-responsive" id="ccsummarydiv">
+                                    <table class="table">
+                                        <thead>
+                                        <tr>
+                                            <th>Order Summary</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td>Package :</td>
+                                            <td>ProBid Membership</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sub-total :</td>
+                                            <td>$19.95</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Shipping :</td>
+                                            <td>FREE</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sales Tax :</td>
+                                            <td>$0</td>
+                                        </tr>
+                                        </tbody>
+                                        <tfoot>
+                                        <tr>
+                                            <td>Total:</td>
+                                            <td>$19.95</td>
+                                        </tr>
+                                        </tfoot>
+                                    </table>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xs-12 creditcardcustomerright">
+                    <div class="creditcardrightcontentwrapper">
+                        <div class="creditcardrightcontentheader">
+                            <img src="images/lock.png" class="img-responsive">
+                            <h1>final step</h1>
+                            <h3><strong>Billing Information</strong></h3>
+                        </div>
+                        <div class="creditcardrightcontentinner">
+                            <form data-toggle="validator" role="form" id="creditcardform">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="creditcardfirstname" placeholder="First name"  data-error="First Name is required" required>
+                                    <!--<div class="help-block with-errors has-error">First Name is required</div>-->
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="creditcardlastname" placeholder="Last name"  data-error="Last Name is required" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="creditcardcity" placeholder="City" data-error="City Name is required" required>
+                                </div>
+                                <div class="form-group">
+                                    <select class="form-control input-lg">
+                                        <option>State</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="creditcardaddress" placeholder="Address"  data-error="Address is required" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="creditcardtelphone" placeholder="Telephone number" data-error="That phone number is invalid" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="creditcardemail" placeholder="Email address" data-error="That email address is invalid" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="creditcardzip" placeholder="Zip Code" required>
+                                </div>
+                                <div class="form-group">
+                                    <input id="creditcardformcheck" type="checkbox" name="creditcardformcheck" value="1" required><label for="creditcardformcheck" class="billingaddress"><span></span>Use my billing address as my ship-to address</label>
+                                </div>
+                                <div class="form-group">
+                                    <label class="paywith">Pay with Credit or Debit Card</label>
+                                </div>
+                                <div class="form-group form-inline">
+                                    <label class="weaccept">We Accept</label>
+                                    <a><img class="mscard" src="images/mastercard.jpg"></a>
+                                    <a><img class="mscard" src="images/visacard.jpg"></a>
+                                    <a><img class="mscard" src="images/americanexpress.jpg"></a>
+                                    <a><img class="mscard" src="images/discover.jpg"></a>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="ccnum" placeholder="CC#" required>
+                                </div>
+                                <div class="form-group form-inline validdate">
+                                    <select class="form-control input-lg">
+                                        <option>Exp Month</option>
+                                    </select>
+                                    <select class="form-control input-lg">
+                                        <option>Exp Year</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="CVVnum" placeholder="CVV" required>
+                                </div>
+                                <div class="form-group form-inline">
+                                    <img src="images/sslsecure.png">
+                                    <label class="sslsecure">Secure 128-bit ssl Connection</label>
+                                </div>
+                                <button type="submit" class="btn btn-default btnsubmit" id="creditcardformsubmit">Submit</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

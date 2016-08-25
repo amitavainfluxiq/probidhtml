@@ -1,0 +1,736 @@
+
+@media(max-width:1800px){
+
+}
+
+@media(max-width:1680px){
+
+
+}
+
+@media(max-width:1660px){
+}
+
+@media(max-width:1600px){
+}
+
+@media(min-width:1521px) {
+}
+
+@media(max-width:1520px){
+    .signupblockwrapper {
+        max-width: 94% !important;
+    }
+    .creditcardblockwrapper {
+        max-width: 94% !important;
+    }
+}
+
+@media(min-width:1500px){
+    .signupcustomerleft {
+        padding: 0px;
+        margin: 0;
+        width: 70% !important;
+    }
+    .signupcustomerright {
+        padding: 0px;
+        margin: 0;
+        width: 30% !important;
+    }
+   .btngetstarted {
+        font-size: 24px;
+    }
+    .creditcardcustomerleft {
+        padding: 0px;
+        margin: 0;
+        width: 70% !important;
+    }
+    .creditcardcustomerright {
+        padding: 0px;
+        margin: 0;
+        width: 30% !important;
+    }
+    .creditcardcustomerleftimgwrapper {
+        height: auto;
+        overflow: hidden;
+    }
+
+}
+
+@media(max-width:1366px){
+    .btngetstarted {
+        font-size: 26px;
+        padding: 29px 18px 29px 18px;
+    }
+}
+
+@media(max-width:1300px){
+
+}
+
+
+@media(max-width:1280px) {
+
+}
+
+
+
+
+@media(max-width:1199px){
+    .divdivider{margin:10px 0px 20px;}
+    .socialmedia{float: none; text-align: center;padding-bottom: 0px;}
+    .homelogowrapper {float: none; max-width: 320px; margin-left: auto; margin-right: auto;  padding-bottom: 10px;}
+    .signupblockwrapper {max-width: 94%;}
+    .creditcardblockwrapper {max-width: 94%;}
+
+
+    .homebannertextblock h2 {text-align: center;}
+    .homebannertextblock h2 span {display: block;padding-top: 14px;}
+    .homebannertextblockwrapper {width: 100%; float: none;}
+    .homeblock1innerwrapper{width: 100%; float: none;}
+    .homeblock3wrapperinnerblock4 label {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 500;
+    }
+    .homeblock4wrapperinner {
+        padding-left: 0px !important;
+        padding-right: 0px;
+    }
+    .homeblock4wrapperinnerpart2 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .homeblock4wrapperinnerpart2 {
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-top: 30px;
+    }
+    .homeblock4wrapperinnerpart2wrapper {
+        min-height: inherit; height: auto;
+    }
+    .homeblock7single {
+        width: 32.1%;
+    }
+    .homeblock6single {
+        width: 32.1%;
+    }
+    .homeblock1 {
+        padding-top: 32px;
+        padding-bottom: 19px;
+    }
+    .homeblock2 {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .homeblock3 {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .homeblock4 {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .homeblock6 {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .homeblock7 {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .homeblock8 {
+        padding-top: 32px;
+        padding-bottom: 0px;
+    }
+    .footerblock {
+        padding-top: 32px;
+        padding-bottom: 16px;
+    }
+    .btngetstarted {
+        font-size: 21px;
+        padding: 28px 18px 28px 18px;
+    }
+    .financingblock2wrapperinner input.input-lg, .financingblock2wrapperinner select.input-lg {
+        height: 48px;
+        margin-bottom: 12px;
+    }
+    .financingblock2wrapperinner .form-group {
+        margin: 0px;
+    }
+    .prhalfleft1 {
+        padding-left: 0px;
+    }
+    .prhalfright2 {
+        padding-right: 0px;
+    }
+   .prthird1 {
+        padding-left: 0px;
+    }
+    .prthird2 {
+    }
+    .prthird3 {
+        padding-right: 0px;
+    }
+
+
+    .prerthird1 {
+        padding-left: 0px;
+    }
+    .prerthird2 {
+    }
+    .prerthird3 {
+        padding-right: 0px;
+    }
+
+    .mailingaddressthird1{
+        padding-left: 0px;
+    }
+    .mailingaddressthird2{
+    }
+
+    .mailingaddressthird3 {
+        padding-right: 0px;
+    }
+
+    .financialshalf1{padding-left: 0px;}
+    .financialshalf2{padding-right: 0px;}
+    .lbltext{font-size: 12px;}
+
+}
+
+@media(min-width:1024px) and (max-width:1499px) {
+    .creditcardleftimgwrapper img{width: 170%; max-width: none; margin-left: -240px;}
+    .signupcustomerleftimgwrapper img{width: 170%; max-width: none; margin-left: -240px;}
+}
+@media(min-width:1024px){
+    .signupcustomerleft {
+        padding: 0px;
+        margin: 0;
+        width: 60%;
+    }
+    .signupcustomerright {
+        padding: 0px;
+        margin: 0;
+        width: 40%;
+    }
+
+
+    .creditcardcustomerleft {
+        padding: 0px;
+        margin: 0;
+        width: 60%;
+    }
+    .creditcardcustomerright {
+        padding: 0px;
+        margin: 0;
+        width: 40%;
+    }
+    .creditcardcustomerleftimgwrapper {
+        height: auto;
+        overflow: hidden;
+    }
+
+}
+
+@media(max-width:1023px) {
+    input[type="checkbox"]:not(old) + label, input[type="radio"]:not(old) + label {
+        margin-left: -28px;
+    }
+    input[type="checkbox"]:not(old), input[type="radio"]:not(old) {
+        width: 22px;
+        margin: 0;
+        padding: 0;
+        opacity: 0;
+    }
+    .signupcustomerleft {
+        padding: 0px;
+        margin: 0;
+        width: 100%;
+    }
+    .signupcustomerright {
+        padding: 0px;
+        margin: 0;
+        width:100%;
+    }
+
+    .signupcustomerleftimgwrapper {
+        height: auto;
+        overflow: hidden;
+    }
+    .btngetstarted {
+        font-size: 26px;
+        padding: 39px 18px 39px 18px;
+    }
+
+    .creditcardcustomerleft {
+        padding: 0px;
+        margin: 0;
+        width: 100%;
+    }
+    .creditcardcustomerright {
+        padding: 0px;
+        margin: 0;
+        width:100%;
+    }
+
+    .creditcardcustomerleftimgwrapper {
+        height: auto;
+        overflow: hidden;
+    }
+
+    .creditcardrightcontentwrapper {
+        padding: 0px;
+        margin: 0px;
+        margin-top: 0px;
+    }
+    input[type=checkbox]:not(old) + label, input[type=radio ]:not(old) + label {
+        margin-left: -18px;
+    }
+    .creditcardleftimgwrapper {
+        height: auto;
+        overflow: hidden;
+    }
+
+
+
+.btnfinacefooterlist a{margin-bottom: 10px;}
+
+}
+
+@media(max-width:991px){
+    .homeblock1innerwrapperright h2 {margin-top: 24px;}
+    .homeblock1innerwrapperleft img{text-align: center; float: none; margin-left: auto; margin-right: auto;width: 100%;}
+    .homeblock1innerwrapperrightcontentleft{border-right: 0px solid #d6d8d9; height: auto; width: 100%; border-bottom: 1px solid #d6d8d9; padding-bottom: 20px;text-align: center;}
+    .homeblock1innerwrapperrightcontentright {padding-top: 20px; text-align: center;}
+    .homeblock1innerwrapperrightcontentright h3 span{display: block;}
+    .homeblock1innerwrapperrightcontent { margin-top: 20px; margin-bottom: 20px;}
+    .homeblock1part2 {text-align: center; max-width: 94%; margin-right: auto; margin-left: auto; display: block; float: none;}
+    .homeblock2wrapper{max-width: 100%; margin-right: auto; margin-left: auto; display: block; float: none !important;}
+    .homeblock2wrapperinner {max-width: 94%;}
+    .btnsubmit{width: 176px; margin-left: auto; margin-right: auto; float: none; background-color: #209e9c; padding:11px 4px; color:#fff;font-size: 30px; display: block;white-space:normal !important; word-wrap:break-word; border-radius: 0px;  -moz-border-radius: 0px;  -webkit-border-radius: 0px; text-transform: uppercase;}
+    .homeblock3part1 span{display: block;    margin-right: 0px;}
+    .homeblock3part1 label{display: inline-block;}
+
+    .homeblock3part2 span{display: block;    margin-right: 0px;}
+    .homeblock3part2 label{display: inline-block;}
+
+    .homeblock3wrapper{max-width: 100%;margin-left: auto; margin-right: auto; display: block; float: none;}
+
+    .homeblock3wrapperinner {max-width: 100%;}
+
+    .homeblock3wrapperinnerblock1:nth-child(1) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock1:nth-child(2) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock1:nth-child(3) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock1:nth-child(4) { padding-left: 0px !important; padding-right: 0px;}
+
+    .homeblock3wrapperinnerblock2:nth-child(1) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock2:nth-child(2) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock2:nth-child(3) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock2:nth-child(4) { padding-left: 0px !important; padding-right: 0px;}
+
+    .homeblock3wrapperinnerblock3:nth-child(1) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock3:nth-child(2) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock3:nth-child(3) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock3:nth-child(4) { padding-left: 0px !important; padding-right: 0px;}
+
+    .homeblock3wrapperinnerblock4:nth-child(1) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock4:nth-child(2) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock4:nth-child(3) { padding-left: 0px !important; padding-right: 0px;}
+    .homeblock3wrapperinnerblock4:nth-child(4) { padding-left: 0px !important; padding-right: 0px;}
+
+    .homeblock7single {
+        width: 48.5%;
+    }
+    .homeblock6single {
+        width: 48.5%;
+    }
+    .signupcustomerrightcontentinner {
+        padding: 31px 12px;
+    }
+
+    .creditcardcustomerrightcontentinner {
+        padding: 31px 12px;
+    }
+    .prhalfleft1 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .prhalfright2 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .prthird1 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .prthird2 {
+    }
+    .prthird3 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+
+    .prerthird1 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .prerthird2 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .prerthird3 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .mailingaddressthird1{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .mailingaddressthird2{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .mailingaddressthird3 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .currentemploymenthalf1 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .currentemploymenthalf2 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .currentemploymentthird1{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .currentemploymentthird2{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .currentemploymentthird3{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .financialshalf1{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .financialshalf2{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    input[type=checkbox]:not(old) + label, input[type=radio ]:not(old) + label {
+        margin-left: 0px;
+    }
+    .smalltxt label {
+        font-size: 11px;
+    }
+
+    .radio-inline, .checkbox-inline {
+        display: inline-block;
+        padding-left: 0px;
+        margin-bottom: 0;
+        font-weight: 400;
+        vertical-align: middle;
+        cursor: pointer;
+    }
+    input[type=checkbox]:first-of-type:not(old), input[type=radio ]:first-of-type:not(old) {
+        width: 0px;
+    }
+    .message {
+        margin-left: 0px;
+        font-size: 14px !important;
+        line-height: 24px !important;
+    }
+
+    .txtpad{margin-left: 10px;}
+    .smalltxt1 label {
+        font-size: 14px;
+    }
+    .lbltext{text-align: left;}
+    .pleasecheckdiv{padding-left: 5px;}
+    .divdivider{margin:10px 0px 20px;}
+}
+
+
+@media(max-width:800px){
+
+}
+
+@media(max-width:767px){
+    .signupcustomerleftfooterwrapperleft {
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+    .signupcustomerleftfooterwrapperright {
+        padding: 0px;
+        margin: 0px auto;
+        width: 100%;
+        margin-top: 9px;
+    }
+    .signupcustomerleftcontentwrapper {
+        text-align: center;
+    }
+    .signupcustomerleftfooterwrapper {
+        text-align: center;
+
+    }
+    .signupcustomerleftfooterwrapperright h4{border-left: 0px solid #fff;}
+
+    .homeblock4single{width: 50%; background-color: #f0f0f0; border:5px solid #fff;}
+    .singlelogowrapper {
+        width: 324px;
+    }
+    .homeblock7single {
+        width: 48.44%;
+        margin: 5px 5px;
+    }
+    .homeblock6single {
+        width: 48.5%;
+    }
+    .homeblock3wrapperinnerblock11 {
+        padding: 32px 15px;
+    }
+    .homeblock3wrapperinnerblock21 {
+        padding: 32px 15px;
+        background-color: #fff;
+    }
+    .homeblock3wrapperinnerblock2 h3 {
+        padding: 26px 10px 32px 15px;
+    }
+    .homeblock3wrapperinnerblock1 h3 {
+        padding: 26px 10px 32px 15px;
+    }
+    .homeblock3part1 {
+        padding: 30px 15px;
+    }
+    .homeblock3part2 {
+        padding: 30px 15px;
+    }
+    .homeblock3wrapperinnerblock3 h3 {
+        padding: 26px 10px 32px 15px;
+    }
+    .homeblock3wrapperinnerblock31 {
+        padding: 32px 15px;
+    }
+    .homeblock3wrapperinnerblock4 h3 {
+        padding: 26px 10px 32px 15px;
+    }
+    .homeblock3wrapperinnerblock41 {
+        padding: 32px 15px;
+    }
+    .homeblock4wrapperinner h3 {
+        padding: 26px 10px 32px 15px;
+    }
+    .homeblock4wrapperinnerpart2 h4 {
+        padding: 31px 10px 32px 15px;
+    }
+    .homeblock6wrapperinner h3 {
+        padding: 32px 10px 32px 15px;
+    }
+    .homeblock7wrapperinner h3 {
+        padding: 32px 10px 32px 15px;
+    }
+    .homeblock8part2 {
+        padding: 32px 15px;
+    }
+
+    .homeblock8part2 span {
+        display: block;
+    }
+
+    .creditcardcustomerleftfooterwrapperleft {
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+    .creditcardcustomerleftfooterwrapperright {
+        padding: 0px;
+        margin: 0px auto;
+        width: 100%;
+        margin-top: 9px;
+    }
+    .creditcardcustomerleftcontentwrapper {
+        text-align: center;
+    }
+    .creditcardcustomerleftfooterwrapper {
+        text-align: center;
+
+    }
+    .creditcardcustomerleftfooterwrapperright h4{border-left: 0px solid #fff;}
+    .financingblock2 .radio-inline, .financingblock2 .checkbox-inline {
+        display: inline-block;
+        padding-left: 0px;
+        margin-bottom: 0;
+        font-weight: 400;
+        vertical-align: middle;
+        cursor: pointer;
+    }
+
+    .smalltxt label {
+        font-size: 9px;
+    }
+    .reqfield{text-align: left; margin-top: 10px;}
+
+}
+
+@media(max-width:730px){
+    .homeblock6single {
+        width: 48.5%;
+    }
+}
+
+@media(max-width:700px) {
+    .homeblock7single {
+        width: 48.34%;
+        margin: 5px 5px;
+    }
+    .homeblock6single {
+        width: 48.2%;
+    }
+}
+
+@media (max-width: 670px){
+    .homeblock6single {
+        width: 98.5%;
+    }
+
+}
+@media(max-width:640px){
+    .homeblock7single {
+        width: 100%;
+        margin: 5px 0px;
+    }
+
+    .homeblock6single {
+        width: 98.5%;
+    }
+    .homeblock8part2 span {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .homeblock4wrapperinnerpart21 label {
+        width: 85%;
+    }
+    .checkbox-inline {
+        padding-left: 0px !important;
+    }
+    input[type=checkbox]:not(old), input[type=radio ]:not(old) {
+        width: 0px;
+        margin: 0;
+        padding: 0;
+        opacity: 0;
+    }
+
+    .smalltxt label {
+        font-size: 8px;
+    }
+
+}
+
+@media(max-width:480px){
+    .btnemail {width: 100%;}
+    .homeblock4single{width: 100%; background-color: #f0f0f0; border:5px solid #fff;}
+    .singlelogowrapper {
+        width: 402px;
+    }
+    .imgAbtblockcontent {
+        width: 90%;
+    }
+    .btnfooter {
+        margin-bottom: 5px;
+    }
+    .btngetstarted {
+        height: auto;
+        width: 100%;
+
+    }
+    .creditcardrightcontentinner {
+        padding: 31px 11px;
+    }
+    .ftrfinance {
+        max-width: 100%;
+    }
+    .financingblock2wrapperinner label {
+        font-size: 15px;
+    }
+
+    .financingblock2wrapperinner .smalltxt label {
+        font-size: 5px;
+    }
+    .financingblock2 .financingblock2wrapper h3 {
+        padding: 6px;
+        line-height: 36px;
+    }
+    .financingblock2 .financingblock2wrapper h3 {
+        min-height: inherit;
+        line-height: 36px;
+
+    }
+    .smalltxt label {
+        font-size: 13px;
+    }
+    .smalltxt1 label {
+        font-size: 12px;
+    }
+.ftrfinance img{width: 100%;}
+.residencytype, .grossmonthlyincome, .selfemployee, .paymenttype{width: 100%;}
+.residencytyperadio, .grossmonthlyincome1, .selfemployee1, .paymenttype1{width: 100%;}
+.smalltxt1 label {font-size: 10px; }
+    .txtpad {
+        margin-left: 10px;
+        line-height: 48px;
+    }
+
+}
+
+@media(max-width:395px) {
+    .billingaddress {
+        font-size: 13px;
+    }
+    .signupformcheck{
+        font-size: 13px;
+    }
+    .creditcardrightcontentheader h1 {
+        font-size: 30px;
+    }
+    .creditcardrightcontentheader h3 {
+        font-size: 22px;
+    }
+    .financingblock2wrapperinner .smalltxt label {
+        font-size: 5px;
+    }
+}
+
+@media(max-width:320px){
+    .homeblock4wrapperinnerpart21 label {
+        width: 85%;
+    }
+
+    .creditcardrightcontentheader h1 {
+        font-size: 25px;
+    }
+    .creditcardrightcontentheader h3 {
+        font-size: 17px;
+    }
+    .lbltext {
+        line-height: 24px;
+    }
+    .financingblock2wrapperinner .smalltxt label {
+        font-size: 4px;
+    }
+
+}
+
